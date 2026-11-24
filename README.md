@@ -1,4 +1,4 @@
-# ofinto BI – Firmenkunden und Verkaufsgespräche
+# BI – Firmenkunden und Verkaufsgespräche
 
 Dieses Projekt wertet die fiktiven Case-Daten aus. Es erstellt Firmenprofile und Potenzialschätzungen, extrahiert Signale aus Verkaufsgesprächen und beantwortet Fragen zu den gespeicherten Daten. Die Case-Daten wurden nicht auf Git commited.
 
